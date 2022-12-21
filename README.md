@@ -117,6 +117,6 @@ b) Output:
 
 -> A Csv file in the same directory as the sample; this file contains the data of attendance,with the detected face's name and time of recognition.
 
-![Alt text](docs/attendance.jpg "Attendance.csv")
+![Alt text](/docs/attendance.jpg)
 
 ## Results and Conclusion
