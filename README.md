@@ -120,3 +120,11 @@ b) Output:
 ![Alt text](/docs/attendance.jpg)
 
 ## Results and Conclusion
+
+### Confusion Matrix: Face Detection
+
+|                  | Face Detected | No Face Detected |
+| ---------------- | ------------- | ---------------- |
+| Actual Face      | 29 (True Positive)   | 11 (False Negative)    |
+| Actual No Face   | 0 (False Positive)    | 0 (True Negative) |
+
