@@ -128,3 +128,6 @@ b) Output:
 | Actual Face      | 29 (True Positive)   | 11 (False Negative)    |
 | Actual No Face   | 0 (False Positive)    | 0 (True Negative) |
 
+#### Precision = 100%
+
+#### Recall = 72.5%
